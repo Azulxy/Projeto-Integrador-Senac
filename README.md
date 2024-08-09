@@ -1,22 +1,22 @@
-Software Escola Senac
+**Software Escola Senac**
+**Status do projeto: **
+em desenvolvimento
 
-Status do projeto: em desenvolvimento
-
-Tecnologias que serão aplicadas:
+**Tecnologias que serão aplicadas:**
 Java Swing
 SQL
 Git
 
-Time de desenvolvedores:
+**Time de desenvolvedores:**
 João Victor Bittencourt Azulay
 
-Objetivo do software:
+**Objetivo do software:**
 Ajudar escolas com o cadastro e automação de funções básicas
 
 
-Funcionalidades do sistema:
+**Funcionalidades do sistema:**
 
-Os requisitos funcionais são:
+**Os requisitos funcionais são:**
 
 [REQF001] Catalogação de alunos com todos os dados vinculados a eles.
 
